@@ -1,4 +1,4 @@
-![Alt text](Host a Dynamic Web App on AWS.png)
+![Alt text](Dynamic_Website_on_AWS.png)
 
 
 
