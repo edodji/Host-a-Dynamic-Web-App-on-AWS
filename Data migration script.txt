@@ -4,7 +4,7 @@ S3_URI=s3://divine-sql-files/V1__shopwise.sql
 RDS_ENDPOINT=dev-rds-db.cdga88iu0kex.us-west-1.rds.amazonaws.com
 RDS_DB_NAME=applicationdb
 RDS_DB_USERNAME=thalia
-RDS_DB_PASSWORD=Azerty19901996
+RDS_DB_PASSWORD=******
 
 # Update all packages
 sudo yum update -y
