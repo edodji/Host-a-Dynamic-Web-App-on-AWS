@@ -1,4 +1,6 @@
 
+![Alt text](Host a Dynamic Web App on AWS.png)
+
 
 # Dynamic Website Deployment on AWS
 
